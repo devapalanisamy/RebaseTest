@@ -1,1 +1,3 @@
 commit 1 : I like git
+
+Commit 2 : This 2nd commit should not stay after rebase
