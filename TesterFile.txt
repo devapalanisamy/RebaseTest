@@ -6,5 +6,7 @@ commit 3 : This c3rd commit and deleteme.txt should be gone after rebase
 
 commit 4 : This commit and stay.txt will stay after rebase
 
+commit 5 : This is 5th commit. It will stay.
+
 
 
