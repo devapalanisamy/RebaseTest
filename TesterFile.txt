@@ -4,4 +4,7 @@ Commit 2 : This 2nd commit should not stay after rebase
 
 commit 3 : This c3rd commit and deleteme.txt should be gone after rebase
 
+commit 4 : This commit and stay.txt will stay after rebase
+
+
 
